@@ -1,0 +1,1 @@
+Simple script to check and restart solr.
